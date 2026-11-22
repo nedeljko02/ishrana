@@ -1,4 +1,4 @@
-# Дневник исхране — Nutrition Diary
+# Дневник исхране - Nutrition Diary
 
 A browser-based food diary that tracks daily protein, carbohydrate, fat and calorie intake. Pick a food, enter the weight in grams, and the macros are computed and totalled per meal and per day.
 
