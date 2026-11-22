@@ -4,23 +4,23 @@ A browser-based food diary that tracks daily protein, carbohydrate, fat and calo
 
 **Live:** <https://ishrana.onrender.com>
 
-No backend, no build step, no dependencies — everything runs in the browser and persists to `localStorage`.
+No backend, no build step, no dependencies - everything runs in the browser and persists to `localStorage`.
 
 ---
 
 ## Features
 
-**Built-in food database** — 324 foods with per-100 g values for protein, carbohydrates, fat and calories. Every entry carries both a Serbian and an English name, so search works in either language.
+**Built-in food database** - 324 foods with per-100 g values for protein, carbohydrates, fat and calories. Every entry carries both a Serbian and an English name, so search works in either language.
 
-**Custom foods** — add your own entries with their macro values; they persist across sessions and appear in the same picker as the built-in ones.
+**Custom foods** - add your own entries with their macro values; they persist across sessions and appear in the same picker as the built-in ones.
 
-**Editable meal structure** — the default day is five meals (breakfast, two snacks, lunch, dinner) with suggested times, but meals can be renamed, retimed, added or removed. The layout is saved as a template and reused for every day.
+**Editable meal structure** - the default day is five meals (breakfast, two snacks, lunch, dinner) with suggested times, but meals can be renamed, retimed, added or removed. The layout is saved as a template and reused for every day.
 
-**Calendar and history** — each day is stored under its own date. Navigate by month, jump to a specific date, or click *Today*. Days with entries are marked in the calendar.
+**Calendar and history** - each day is stored under its own date. Navigate by month, jump to a specific date, or click *Today*. Days with entries are marked in the calendar.
 
-**Bilingual UI with live switching** — Serbian and English, toggled at runtime without a reload. Serbian renders in Cyrillic via a transliteration pass rather than a second set of translation strings (see below).
+**Bilingual UI with live switching** - Serbian and English, toggled at runtime without a reload. Serbian renders in Cyrillic via a transliteration pass rather than a second set of translation strings (see below).
 
-**Automatic totals** — per-meal and per-day sums for protein, carbs, fat and kcal, recalculated as you type.
+**Automatic totals** - per-meal and per-day sums for protein, carbs, fat and kcal, recalculated as you type.
 
 ---
 
