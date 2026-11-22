@@ -86,4 +86,4 @@ Entries in `js/data/foods.js` use per-100 g values:
 { "name": "Piletina", "p": 21.0, "uh": 0.0, "m": 3.0, "kcal": 111.0, "en": "Chicken" }
 ```
 
-`p` is protein, `uh` carbohydrates, `m` fat — all in grams. `name` is the Serbian label (written in Latin; transliterated to Cyrillic at render time) and `en` its English equivalent.
+`p` is protein, `uh` carbohydrates, `m` fat - all in grams. `name` is the Serbian label (written in Latin; transliterated to Cyrillic at render time) and `en` its English equivalent.
